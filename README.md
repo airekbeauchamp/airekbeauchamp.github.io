@@ -14,9 +14,9 @@ In a moment when critical thinking is under attack and students are treated as c
 ---
 
 ### Learn More
-- **[My Journey](personal-journey.md)** - From margins to transformation: how I found my way and why it shapes everything I do
-- **[Teaching Philosophy](teaching-philosophy.md)** - Writing as liberation and student-centered pedagogy in practice  
-- **[Research Interests](research-interests.md)** - Sound studies, queer theory, and listening to the margins
+- **[From The Margins](from-the-margins.md)** - From margins to transformation: how I found my way and why it shapes everything I do
+- **[Learning To Learn](learning-to-learn.md)** - Writing as liberation and student-centered pedagogy in practice  
+- **[Between The Lines](between-the-lines.md)** - Sound studies, queer theory, and listening to the margins
 - **[Curriculum Vitae](cv.md)** - Academic credentials, publications, and professional experience
 
 ### Connect
