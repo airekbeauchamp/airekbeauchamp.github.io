@@ -18,6 +18,7 @@ In a moment when critical thinking is under attack and students are treated as c
 - **[Learning To Learn](learning-to-learn.md)** - Writing as liberation and student-centered pedagogy in practice  
 - **[Between The Lines](between-the-lines.md)** - Sound studies, queer theory, and listening to the margins
 - **[Curriculum Vitae](current_cv.md)** - Academic credentials, publications, and professional experience
+- **[Blog](/blog/)**
 
 ### Connect
 📧 airekbeauchamp@gmail.com  
